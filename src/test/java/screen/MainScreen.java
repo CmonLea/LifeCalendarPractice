@@ -15,13 +15,13 @@ public class MainScreen extends AbstractScreen {
 	}
 
 	@FindBy(name = "首页")
-	public WebElement homePageTag;
+	public static WebElement homePageTag;
 
 	@FindBy(name = "提醒")
 	public WebElement remindPageTag;
 
 	@FindBy(name = "发现")
-	public WebElement foundPageTag;
+	public static WebElement foundPageTag;
 
 	@FindBy(name = "我的")
 	public WebElement myPageTag;

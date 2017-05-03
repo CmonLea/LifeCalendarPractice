@@ -26,7 +26,7 @@ public class WeekViewScreen extends AbstractScreen{
 	WebElement lifeCalendarView;
 
 	public void getWeekViewScreenInfo() throws InterruptedException {
-		PropertyConfigurator.configure("log4j2.properties");
+		//PropertyConfigurator.configure("log4j2.properties");
 
 		Thread.sleep(50000);
 

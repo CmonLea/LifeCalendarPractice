@@ -28,6 +28,8 @@ public abstract class AbstractTest {
 			   );  
 
 		app = new LifeCalendar(driver);
+		
+		
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		PropertyConfigurator.configure("log4j2.properties");
 	}

@@ -28,7 +28,7 @@ public class ThirdGuideScreen extends AbstractScreen {
 	@FindBy(className="android.widget.TextView")
 	WebElement joinButton;
 	public void switchToSecondGuideScreen() {
-		PropertyConfigurator.configure("log4j2.properties");
+//		PropertyConfigurator.configure("log4j2.properties");
 		ss.switchToThirdGuideScreen();
 		//向右滑动进入第二屏
 		findElementWithTimeout(
@@ -42,7 +42,7 @@ public class ThirdGuideScreen extends AbstractScreen {
 	 * 跳转到应用首页
 	 */
 	public void enterMainScreen() {
-		PropertyConfigurator.configure("log4j2.properties");
+//		PropertyConfigurator.configure("log4j2.properties");
 		ss.switchToThirdGuideScreen();
 //		findElementWithTimeout(
 //				By.className("android.widget.TextView"),

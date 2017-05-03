@@ -1,3 +1,4 @@
+import static org.testng.Assert.assertEquals;
 import io.appium.java_client.android.Activity;
 import io.appium.java_client.android.StartsActivity;
 
@@ -16,7 +17,7 @@ public class GuideScreenTest extends AbstractTest {
 
 	}
 
-	//@Ignore
+	
 	@Test
 	/*
 	 * 从引导页第一屏跳到首页
@@ -26,7 +27,7 @@ public class GuideScreenTest extends AbstractTest {
 
 	}
 
-	// @Ignore
+
 	@Test
 	/*
 	 * 从引导页第一屏 滑动到第二屏引导页
@@ -37,13 +38,14 @@ public class GuideScreenTest extends AbstractTest {
 
 	}
 
-	@Ignore
+	
 	@Test
 	public void testSecondScreenClickSkipButton() {
 		app.secondGuideScreen().skipGuideScreen();
+		assertEquals(((StartsActivity) driver).currentActivity(), ".activity.MainActivity");
 	}
 
-	@Ignore
+	
 	@Test
 	/*
 	 * 从第一屏滑动到第三屏引导页
@@ -56,12 +58,13 @@ public class GuideScreenTest extends AbstractTest {
 	@Test
 	public void testClickExperienceButton() {
 		app.thirdGuideScreen().enterMainScreen();
+	assertEquals(((StartsActivity) driver).currentActivity(), ".activity.MainActivity");
 	}
 
 	/*
 	 * 从第三屏引导页滑动到第二屏
 	 */
-	@Ignore
+
 	@Test
 	public void testSwipFromThridGuideScreenToSecondScreen() {
 		app.thirdGuideScreen().switchToSecondGuideScreen();

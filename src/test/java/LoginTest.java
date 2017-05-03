@@ -12,19 +12,6 @@ import org.junit.Test;
 
 //实现登录操作并判断是否登录成功
 public class LoginTest extends AbstractTest {
-	// @Before
-	// public void setUp() {
-	// //driver.resetApp();
-	// Activity activity = new Activity("com.updrv.lifecalendar",
-	// ".activity.MainActivity");
-	// // activity.setWaitAppPackage("app wait package goes here");
-	// // activity.setWaitAppActivity("app wait activity goes here");
-	// ((StartsActivity) driver).startActivity(activity);
-	//
-	// // ((AndroidDriver)
-	// //
-	// driver).StartsActivity("com.updrv.lifecalendar",".activity.MainActivity");
-	// }
 
 	@Test
 	public void testLogin() {

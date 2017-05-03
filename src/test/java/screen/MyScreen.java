@@ -58,7 +58,7 @@ public class MyScreen extends AbstractScreen {
 		((StartsActivity) driver).startActivity(ac);
 	}
 
-	public void logOut() {
+	public void enterLogOutPage() {
 		logger.info("退出登录...");
 		notLogin.click();
 		//driver.findElementByName("确定").click();
