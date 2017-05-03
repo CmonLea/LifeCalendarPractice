@@ -1,0 +1,1116 @@
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件[[AndroidDriver: Android on LINUX (9ab871fe-bcc2-47ea-bd2f-2ef5e2aa23e7)] -> name: 我的]
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功[[AndroidDriver: Android on LINUX (9ab871fe-bcc2-47ea-bd2f-2ef5e2aa23e7)] -> name: 我的]
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件[[AndroidDriver: Android on LINUX (9ab871fe-bcc2-47ea-bd2f-2ef5e2aa23e7)] -> name: 我的]
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功[[AndroidDriver: Android on LINUX (9ab871fe-bcc2-47ea-bd2f-2ef5e2aa23e7)] -> name: 我的]
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件[[AndroidDriver: Android on LINUX (9ab871fe-bcc2-47ea-bd2f-2ef5e2aa23e7)] -> class name: android.widget.ImageView]
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功[[AndroidDriver: Android on LINUX (9ab871fe-bcc2-47ea-bd2f-2ef5e2aa23e7)] -> class name: android.widget.ImageView]
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件[[AndroidDriver: Android on LINUX (e47e8cf4-92d5-4f56-a390-48d160bdd718)] -> name: 我的]
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功[[AndroidDriver: Android on LINUX (e47e8cf4-92d5-4f56-a390-48d160bdd718)] -> name: 我的]
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件[[AndroidDriver: Android on LINUX (e47e8cf4-92d5-4f56-a390-48d160bdd718)] -> name: 我的]
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功[[AndroidDriver: Android on LINUX (e47e8cf4-92d5-4f56-a390-48d160bdd718)] -> name: 我的]
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件[[AndroidDriver: Android on LINUX (e47e8cf4-92d5-4f56-a390-48d160bdd718)] -> class name: android.widget.ImageView]
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功[[AndroidDriver: Android on LINUX (e47e8cf4-92d5-4f56-a390-48d160bdd718)] -> class name: android.widget.ImageView]
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件class name: android.widget.ImageView
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功class name: android.widget.ImageView
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - WebDriverEventListener: 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - WebDriverEventListener: 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件class name: android.widget.Button
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功class name: android.widget.Button
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"". 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener - WebDriverEventListener: 控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - WebDriverEventListener: 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener - WebDriverEventListener: 正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}). 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.chained({By.id: com.updrv.lifecalendar:id/user_center_etit_text,By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]}) 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4]. 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.LinearLayout[index=4] 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4]. 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4] 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4]. 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4] 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4]. 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4] 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4]. 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4] 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4]. 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4] 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4]. 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4] 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4]. 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4] 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4]. 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4] 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView. 根控件为： null
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成. 根控件为： null
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4]. 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4] 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4]. 根控件为： null
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index=4] 完成. 根控件为： null
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index='4']
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index='0']/android.widget.LinearLayout[index='4'] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener - 异常已抛出: class java.lang.reflect.UndeclaredThrowableException
+INFO main util.AppiumListener - 异常已抛出: class java.lang.reflect.UndeclaredThrowableException
+INFO main util.AppiumListener - 异常已抛出: class java.lang.reflect.UndeclaredThrowableException
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.ImageView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.ImageView
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
+INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
+INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
+INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.LinearLayout[@index=0]/android.widget.LinearLayout[4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
+INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.LinearLayout[4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.LinearLayout[4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
+INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.LinearLayout[@index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.LinearLayout[@index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
+INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.LinearLayout[@index=4]
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.LinearLayout[@index=4] 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
+INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/user_center_etit_text
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/user_center_etit_text
+INFO main util.AppiumListener - 准备点击控件name: 确定
+INFO main util.AppiumListener -  控件点击成功name: 确定
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
+INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
+INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/user_center_etit_text
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/user_center_etit_text
+INFO main util.AppiumListener - 准备点击控件name: 确定
+INFO main util.AppiumListener -  控件点击成功name: 确定
+INFO main screen.AbstractScreen - 退出登录...
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
