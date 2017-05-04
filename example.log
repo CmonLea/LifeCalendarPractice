@@ -1,9 +1,3 @@
-INFO main util.AppiumListener - 准备点击控件name: 我的
-INFO main util.AppiumListener -  控件点击成功name: 我的
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
 INFO main util.AppiumListener -  正在查找 Locator map: 
 - native content: "By.className: android.widget.EditText" 
 - html content: "by id or name "accountEditText""
@@ -58,400 +52,844 @@ INFO main util.AppiumListener - 查找控件 Locator map:
 - html content: "by id or name "loginButton"" 完成.
 INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
 INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
-INFO main util.AppiumListener -  正在查找 By.name: 我的
-INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
-INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 我的
-INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
-INFO main util.AppiumListener - 准备点击控件name: 我的
-INFO main util.AppiumListener -  控件点击成功name: 我的
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" 完成.
-INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
-INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText"" 完成.
-INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
-INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
-INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
-INFO main screen.AbstractScreen - 退出登录...
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 准备点击控件name: 确定
-INFO main util.AppiumListener -  控件点击成功name: 确定
-INFO main screen.AbstractScreen - 退出登录...
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
 INFO main util.AppiumListener -  正在查找 By.name: 我的
 INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
 INFO main util.AppiumListener - 准备点击控件name: 我的
 INFO main util.AppiumListener -  控件点击成功name: 我的
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" 完成.
-INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
-INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText"" 完成.
-INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
-INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
-INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
-INFO main screen.AbstractScreen - 退出登录...
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 准备点击控件name: 确定
-INFO main util.AppiumListener -  控件点击成功name: 确定
-INFO main util.AppiumListener -  正在查找 By.name: 我的
-INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
-INFO main util.AppiumListener - 准备点击控件name: 我的
-INFO main util.AppiumListener -  控件点击成功name: 我的
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 我的
-INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
-INFO main util.AppiumListener - 准备点击控件name: 我的
-INFO main util.AppiumListener -  控件点击成功name: 我的
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" 完成.
-INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
-INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText"" 完成.
-INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
-INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
-INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
-INFO main screen.AbstractScreen - 退出登录...
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 我的
-INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
-INFO main util.AppiumListener - 准备点击控件name: 我的
-INFO main util.AppiumListener -  控件点击成功name: 我的
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" 完成.
-INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
-INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText"" 完成.
-INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
-INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
-INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
-INFO main screen.AbstractScreen - 退出登录...
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 准备点击控件name: 确定
-INFO main util.AppiumListener -  控件点击成功name: 确定
-INFO main util.AppiumListener -  正在查找 By.name: 我的
-INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
-INFO main util.AppiumListener - 准备点击控件name: 我的
-INFO main util.AppiumListener -  控件点击成功name: 我的
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" 完成.
-INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
-INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText"" 完成.
-INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
-INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener -  正在查找 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - 查找控件 Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" 完成.
-INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
-INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
-INFO main screen.AbstractScreen - 退出登录...
-INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
-INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/user_center_etit_text 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/user_center_etit_text
-INFO main util.AppiumListener - 准备点击控件name: 确定
-INFO main util.AppiumListener -  控件点击成功name: 确定
 INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
 INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
 INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.WebDriverException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchSessionException
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.ImageView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.ImageView
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener -  正在查找 By.className: input_id
+INFO main util.AppiumListener - 查找控件 By.className: input_id 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: input_id
+INFO main util.AppiumListener - 控件值已改变class name: input_id
+INFO main util.AppiumListener -  正在查找 By.className: input_pwd
+INFO main util.AppiumListener - 查找控件 By.className: input_pwd 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: input_pwd
+INFO main util.AppiumListener - 控件值已改变class name: input_pwd
+INFO main util.AppiumListener -  正在查找 By.id: go
+INFO main util.AppiumListener - 查找控件 By.id: go 完成.
+INFO main util.AppiumListener - 准备点击控件id: go
+INFO main util.AppiumListener -  控件点击成功id: go
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.ImageView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.ImageView
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener -  正在查找 By.className: input_id
+INFO main util.AppiumListener - 查找控件 By.className: input_id 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: input_id
+INFO main util.AppiumListener - 控件值已改变class name: input_id
+INFO main util.AppiumListener -  正在查找 By.className: input_pwd
+INFO main util.AppiumListener - 查找控件 By.className: input_pwd 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: input_pwd
+INFO main util.AppiumListener - 控件值已改变class name: input_pwd
+INFO main util.AppiumListener -  正在查找 By.id: go
+INFO main util.AppiumListener - 查找控件 By.id: go 完成.
+INFO main util.AppiumListener - 准备点击控件id: go
+INFO main util.AppiumListener -  控件点击成功id: go
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/dialog_text
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/dialog_text 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.ImageView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.ImageView
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/dialog_text
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/dialog_text 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/dialog_text
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/dialog_text 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.ImageView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.ImageView
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/dialog_text
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/dialog_text 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/dialog_text
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/dialog_text 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/dialog_text
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/dialog_text 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.ImageView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.ImageView
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/dialog_text
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/dialog_text 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/dialog_text
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/dialog_text 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/dialog_text
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/dialog_text 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.ImageView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.ImageView
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.ImageView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.ImageView
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.ImageView" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.ImageView
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.ImageView
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
+INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener - 查找控件 By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout 完成.
+INFO main util.AppiumListener - 准备点击控件xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  控件点击成功xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener -  正在查找 By.className: input_id
+INFO main util.AppiumListener - 查找控件 By.className: input_id 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: input_id
+INFO main util.AppiumListener - 控件值已改变class name: input_id
+INFO main util.AppiumListener -  正在查找 By.className: input_pwd
+INFO main util.AppiumListener - 查找控件 By.className: input_pwd 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: input_pwd
+INFO main util.AppiumListener - 控件值已改变class name: input_pwd
+INFO main util.AppiumListener -  正在查找 By.id: go
+INFO main util.AppiumListener - 查找控件 By.id: go 完成.
+INFO main util.AppiumListener - 准备点击控件id: go
+INFO main util.AppiumListener -  控件点击成功id: go
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@77ee25f1: startup date [Thu May 04 17:50:38 CST 2017]; root of context hierarchy
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener -  正在查找 By.className: input_id
+INFO main util.AppiumListener - 查找控件 By.className: input_id 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: input_id
+INFO main util.AppiumListener - 控件值已改变class name: input_id
+INFO main util.AppiumListener -  正在查找 By.className: input_pwd
+INFO main util.AppiumListener - 查找控件 By.className: input_pwd 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: input_pwd
+INFO main util.AppiumListener - 控件值已改变class name: input_pwd
+INFO main util.AppiumListener -  正在查找 By.id: go
+INFO main util.AppiumListener - 查找控件 By.id: go 完成.
+INFO main util.AppiumListener - 准备点击控件id: go
+INFO main util.AppiumListener -  控件点击成功id: go
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@20134094: startup date [Thu May 04 17:51:34 CST 2017]; root of context hierarchy
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/web_login 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/web_login 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.WebDriverException
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/web_login 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener -  正在查找 By.name: userId
+INFO main util.AppiumListener - 查找控件 By.name: userId 完成.
+INFO main util.AppiumListener - 改变控件数值成功name: userId
+INFO main util.AppiumListener - 控件值已改变name: userId
+INFO main util.AppiumListener -  正在查找 By.name: passwd
+INFO main util.AppiumListener - 查找控件 By.name: passwd 完成.
+INFO main util.AppiumListener - 改变控件数值成功name: passwd
+INFO main util.AppiumListener - 控件值已改变name: passwd
+INFO main util.AppiumListener -  正在查找 By.className: btnP
+INFO main util.AppiumListener - 查找控件 By.className: btnP 完成.
+INFO main util.AppiumListener - 准备点击控件class name: btnP
+INFO main util.AppiumListener -  控件点击成功class name: btnP
+INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
+INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchSessionException
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchSessionException
+INFO Forwarding screenshot on session bb7a2688-1b07-462e-8f94-007c88ab3b56 to remote org.apache.http.impl.execchain.RetryExec - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:4723: The target server failed to respond
+INFO Forwarding screenshot on session bb7a2688-1b07-462e-8f94-007c88ab3b56 to remote org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://127.0.0.1:4723
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchSessionException
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@430fa4ef: startup date [Thu May 04 18:10:49 CST 2017]; root of context hierarchy
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener -  正在查找 By.className: input_id
+INFO main util.AppiumListener - 查找控件 By.className: input_id 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: input_id
+INFO main util.AppiumListener - 控件值已改变class name: input_id
+INFO main util.AppiumListener -  正在查找 By.className: input_pwd
+INFO main util.AppiumListener - 查找控件 By.className: input_pwd 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: input_pwd
+INFO main util.AppiumListener - 控件值已改变class name: input_pwd
+INFO main util.AppiumListener -  正在查找 By.id: go
+INFO main util.AppiumListener - 查找控件 By.id: go 完成.
+INFO main util.AppiumListener - 准备点击控件id: go
+INFO main util.AppiumListener -  控件点击成功id: go
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@c6e0f32: startup date [Thu May 04 18:11:50 CST 2017]; root of context hierarchy
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener - 异常已抛出: class org.openqa.selenium.NoSuchElementException
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/web_login 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main screen.AbstractScreen - 用户未登录
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "accountEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.EditText" 
+- html content: "by id or name "passwordEditText"" 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: android.widget.EditText
+INFO main util.AppiumListener - 控件值已改变class name: android.widget.EditText
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener -  正在查找 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton""
+INFO main util.AppiumListener - 查找控件 Locator map: 
+- native content: "By.className: android.widget.Button" 
+- html content: "by id or name "loginButton"" 完成.
+INFO main util.AppiumListener - 准备点击控件class name: android.widget.Button
+INFO main util.AppiumListener -  控件点击成功class name: android.widget.Button
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@91c4a3f: startup date [Thu May 04 18:29:59 CST 2017]; root of context hierarchy
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/qq_login 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/qq_login
+INFO main util.AppiumListener -  正在查找 By.className: input_id
+INFO main util.AppiumListener - 查找控件 By.className: input_id 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: input_id
+INFO main util.AppiumListener - 控件值已改变class name: input_id
+INFO main util.AppiumListener -  正在查找 By.className: input_pwd
+INFO main util.AppiumListener - 查找控件 By.className: input_pwd 完成.
+INFO main util.AppiumListener - 改变控件数值成功class name: input_pwd
+INFO main util.AppiumListener - 控件值已改变class name: input_pwd
+INFO main util.AppiumListener -  正在查找 By.id: go
+INFO main util.AppiumListener - 查找控件 By.id: go 完成.
+INFO main util.AppiumListener - 准备点击控件id: go
+INFO main util.AppiumListener -  控件点击成功id: go
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3104f7bd: startup date [Thu May 04 18:30:54 CST 2017]; root of context hierarchy
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
+INFO main screen.AbstractScreen - 用户已登录
+INFO main screen.AbstractScreen - 重置App...
+INFO main util.AppiumListener -  正在查找 By.name: 我的
+INFO main util.AppiumListener - 查找控件 By.name: 我的 完成.
+INFO main util.AppiumListener - 准备点击控件name: 我的
+INFO main util.AppiumListener -  控件点击成功name: 我的
+INFO main screen.AbstractScreen - 进入登录页面
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/account_info 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/account_info
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/web_login 完成.
+INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/web_login
+INFO main util.AppiumListener -  正在查找 By.name: userId
+INFO main util.AppiumListener - 查找控件 By.name: userId 完成.
+INFO main util.AppiumListener - 改变控件数值成功name: userId
+INFO main util.AppiumListener - 控件值已改变name: userId
+INFO main util.AppiumListener -  正在查找 By.name: passwd
+INFO main util.AppiumListener - 查找控件 By.name: passwd 完成.
+INFO main util.AppiumListener - 改变控件数值成功name: passwd
+INFO main util.AppiumListener - 控件值已改变name: passwd
+INFO main util.AppiumListener -  正在查找 By.className: btnP
+INFO main util.AppiumListener - 查找控件 By.className: btnP 完成.
+INFO main util.AppiumListener - 准备点击控件class name: btnP
+INFO main util.AppiumListener -  控件点击成功class name: btnP
+INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name
+INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/tv_personal_account_user_name 完成.
 INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
 INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
 INFO main screen.AbstractScreen - 跳过引导页
@@ -459,6 +897,8 @@ INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextV
 INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
 INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
 INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4b85880b: startup date [Thu May 04 18:38:21 CST 2017]; root of context hierarchy
+INFO main screen.AbstractScreen - 滑动到低3屏引导页
 INFO main util.AppiumListener -  正在查找 By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView
 INFO main util.AppiumListener - 查找控件 By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView 完成.
 INFO main screen.AbstractScreen - 滑到第二屏引导页
@@ -466,747 +906,27 @@ INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextV
 INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
 INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
 INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7e0aadd0: startup date [Thu May 04 18:38:42 CST 2017]; root of context hierarchy
 INFO main util.AppiumListener -  正在查找 By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView
 INFO main util.AppiumListener - 查找控件 By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView 完成.
 INFO main screen.AbstractScreen - 滑到第二屏引导页
+INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2c22a348: startup date [Thu May 04 18:38:58 CST 2017]; root of context hierarchy
+INFO main screen.AbstractScreen - 跳过引导页
 INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
 INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
 INFO main util.AppiumListener -  正在查找 By.className: android.widget.TextView
 INFO main util.AppiumListener - 查找控件 By.className: android.widget.TextView 完成.
 INFO main util.AppiumListener - 准备点击控件class name: android.widget.TextView
 INFO main util.AppiumListener -  控件点击成功class name: android.widget.TextView
+INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@13cda7c9: startup date [Thu May 04 18:39:16 CST 2017]; root of context hierarchy
+INFO main screen.AbstractScreen - 滑动到低3屏引导页
 INFO main util.AppiumListener -  正在查找 By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView
 INFO main util.AppiumListener - 查找控件 By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView 完成.
 INFO main screen.AbstractScreen - 滑到第二屏引导页
 INFO main util.AppiumListener -  正在查找 By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView
 INFO main util.AppiumListener - 查找控件 By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView 完成.
+INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4f449e8f: startup date [Thu May 04 18:39:34 CST 2017]; root of context hierarchy
+INFO main screen.AbstractScreen - 滑动到低3屏引导页
 INFO main util.AppiumListener -  正在查找 By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView
 INFO main util.AppiumListener - 查找控件 By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView 完成.
 INFO main screen.AbstractScreen - 滑到第二屏引导页
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.widget.TextView
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.widget.TextView ���.
-INFO main screen.AbstractScreen - ��������ҳ
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.widget.TextView
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.widget.TextView ���.
-INFO main util.AppiumListener - ׼������ؼ�class name: android.widget.TextView
-INFO main util.AppiumListener -  �ؼ�����ɹ�class name: android.widget.TextView
-INFO main screen.AbstractScreen - ��������3������ҳ
-INFO main util.AppiumListener -  ���ڲ��� By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView
-INFO main util.AppiumListener - ���ҿؼ� By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView ���.
-INFO main screen.AbstractScreen - �����ڶ�������ҳ
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.widget.TextView
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.widget.TextView ���.
-INFO main util.AppiumListener - ׼������ؼ�class name: android.widget.TextView
-INFO main util.AppiumListener -  �ؼ�����ɹ�class name: android.widget.TextView
-INFO main util.AppiumListener -  ���ڲ��� By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView
-INFO main util.AppiumListener - ���ҿؼ� By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView ���.
-INFO main screen.AbstractScreen - �����ڶ�������ҳ
-INFO main screen.AbstractScreen - ��������ҳ
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.widget.TextView
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.widget.TextView ���.
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.widget.TextView
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.widget.TextView ���.
-INFO main util.AppiumListener - ׼������ؼ�class name: android.widget.TextView
-INFO main util.AppiumListener -  �ؼ�����ɹ�class name: android.widget.TextView
-INFO main screen.AbstractScreen - ��������3������ҳ
-INFO main util.AppiumListener -  ���ڲ��� By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView
-INFO main util.AppiumListener - ���ҿؼ� By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView ���.
-INFO main screen.AbstractScreen - �����ڶ�������ҳ
-INFO main util.AppiumListener -  ���ڲ��� By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView
-INFO main util.AppiumListener - ���ҿؼ� By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView ���.
-INFO main screen.AbstractScreen - ��������3������ҳ
-INFO main util.AppiumListener -  ���ڲ��� By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView
-INFO main util.AppiumListener - ���ҿؼ� By.xpath: //android.support.v4.view.ViewPager/android.widget.ImageView ���.
-INFO main screen.AbstractScreen - �����ڶ�������ҳ
-INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4102b1b1: startup date [Wed May 03 12:36:05 CST 2017]; root of context hierarchy
-INFO main util.AppiumListener -  ���ڲ��� By.name: �ҵ�
-INFO main util.AppiumListener - ���ҿؼ� By.name: �ҵ� ���.
-INFO main util.AppiumListener - ׼������ؼ�name: �ҵ�
-INFO main util.AppiumListener -  �ؼ�����ɹ�name: �ҵ�
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.widget.TextView
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.widget.TextView ���.
-INFO main screen.AbstractScreen - �û�δ��¼
-INFO main screen.AbstractScreen - ����App...
-INFO main util.AppiumListener -  ���ڲ��� By.name: �ҵ�
-INFO main util.AppiumListener - ���ҿؼ� By.name: �ҵ� ���.
-INFO main util.AppiumListener - ׼������ؼ�name: �ҵ�
-INFO main util.AppiumListener -  �ؼ�����ɹ�name: �ҵ�
-INFO main screen.AbstractScreen - �����¼ҳ��
-INFO main util.AppiumListener -  ���ڲ��� Locator map: 
-- native content: "By.className: android.widget.ImageView" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - ���ҿؼ� Locator map: 
-- native content: "By.className: android.widget.ImageView" 
-- html content: "by id or name "loginButton"" ���.
-INFO main util.AppiumListener - ׼������ؼ�class name: android.widget.ImageView
-INFO main util.AppiumListener -  �ؼ�����ɹ�class name: android.widget.ImageView
-INFO main util.AppiumListener -  ���ڲ��� Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - ���ҿؼ� Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" ���.
-INFO main util.AppiumListener -  ���ڲ��� Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - ���ҿؼ� Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" ���.
-INFO main util.AppiumListener - �ı�ؼ���ֵ�ɹ�class name: android.widget.EditText
-INFO main util.AppiumListener - �ؼ�ֵ�Ѹı�class name: android.widget.EditText
-INFO main util.AppiumListener -  ���ڲ��� Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText""
-INFO main util.AppiumListener - ���ҿؼ� Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText"" ���.
-INFO main util.AppiumListener -  ���ڲ��� Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText""
-INFO main util.AppiumListener - ���ҿؼ� Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "passwordEditText"" ���.
-INFO main util.AppiumListener - �ı�ؼ���ֵ�ɹ�class name: android.widget.EditText
-INFO main util.AppiumListener - �ؼ�ֵ�Ѹı�class name: android.widget.EditText
-INFO main util.AppiumListener -  ���ڲ��� Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - ���ҿؼ� Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" ���.
-INFO main util.AppiumListener -  ���ڲ��� Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - ���ҿؼ� Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" ���.
-INFO main util.AppiumListener -  ���ڲ��� Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - ���ҿؼ� Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" ���.
-INFO main util.AppiumListener -  ���ڲ��� Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton""
-INFO main util.AppiumListener - ���ҿؼ� Locator map: 
-- native content: "By.className: android.widget.Button" 
-- html content: "by id or name "loginButton"" ���.
-INFO main util.AppiumListener - ׼������ؼ�class name: android.widget.Button
-INFO main util.AppiumListener -  �ؼ�����ɹ�class name: android.widget.Button
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.widget.TextView
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.widget.TextView ���.
-INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7be7e15: startup date [Wed May 03 12:36:53 CST 2017]; root of context hierarchy
-INFO main util.AppiumListener -  ���ڲ��� By.name: �ҵ�
-INFO main util.AppiumListener - ���ҿؼ� By.name: �ҵ� ���.
-INFO main util.AppiumListener - ׼������ؼ�name: �ҵ�
-INFO main util.AppiumListener -  �ؼ�����ɹ�name: �ҵ�
-INFO main util.AppiumListener -  ���ڲ��� By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener - ���ҿؼ� By.xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout ���.
-INFO main util.AppiumListener - ׼������ؼ�xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  �ؼ�����ɹ�xpath: //android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout
-INFO main util.AppiumListener -  ���ڲ��� Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText""
-INFO main util.AppiumListener - ���ҿؼ� Locator map: 
-- native content: "By.className: android.widget.EditText" 
-- html content: "by id or name "accountEditText"" ���.
-INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@64b3b1ce: startup date [Wed May 03 12:37:21 CST 2017]; root of context hierarchy
-INFO main util.AppiumListener -  ���ڲ��� By.name: �������
-INFO main util.AppiumListener - �쳣���׳�: class org.openqa.selenium.NoSuchElementException
-INFO main util.AppiumListener - ���ҿؼ� By.name: ������� ���.
-INFO main org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@255eaa6b: startup date [Wed May 03 12:37:45 CST 2017]; root of context hierarchy
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.view.View
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.view.View ���.
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.view.View
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.view.View ���.
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.view.View
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.view.View ���.
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.view.View
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.view.View ���.
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.view.View
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.view.View ���.
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.view.View
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.view.View ���.
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.view.View
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.view.View ���.
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.view.View
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.view.View ���.
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.view.View
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.view.View ���.
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.view.View
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.view.View ���.
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.view.View
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.view.View ���.
-INFO main util.AppiumListener -  ���ڲ��� By.className: android.view.View
-INFO main util.AppiumListener - ���ҿؼ� By.className: android.view.View ���.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.name: 提醒
-INFO main util.AppiumListener - 查找控件 By.name: 提醒 完成.
-INFO main util.AppiumListener - 准备点击控件name: 提醒
-INFO main util.AppiumListener -  控件点击成功name: 提醒
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/item_view_recover_note 完成.
-INFO main util.AppiumListener - 准备点击控件id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  控件点击成功id: com.updrv.lifecalendar:id/item_view_recover_note
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.
-INFO main util.AppiumListener -  正在查找 By.id: com.updrv.lifecalendar:id/one_status_name
-INFO main util.AppiumListener - 查找控件 By.id: com.updrv.lifecalendar:id/one_status_name 完成.

@@ -29,14 +29,18 @@ public abstract class AppiumDriverBuilder<SELF, DRIVER extends AppiumDriver<?>> 
 
 		// 返回带capability参数的 endpoint
 		@SuppressWarnings("rawtypes")
-		public AndroidDriver build() {
+		public AndroidDriver build(String appPackage,String appActivity) {
 
 			capabilities.setCapability("platformName", "Android");
 			capabilities.setCapability("deviceName", "testDevice");
 			capabilities.setCapability("platformVersion", "4.2.2");
 			capabilities.setCapability("noReset", false);
-			capabilities.setCapability("appPackage", "com.updrv.lifecalendar");
-			capabilities.setCapability("appActivity", ".activity.MainActivity");
+//			capabilities.setCapability("appPackage", "com.updrv.lifecalendar");
+//			capabilities.setCapability("appActivity", ".activity.MainActivity");
+			
+			capabilities.setCapability("appPackage", appPackage);
+			capabilities.setCapability("appActivity", appActivity);
+			
 			capabilities.setCapability("unicodeKeyboard", true);
 			capabilities.setCapability("resetKeyboard", true);
 			capabilities.setCapability("deviceReadyTimeout",30);

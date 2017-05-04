@@ -34,7 +34,7 @@ public class SecondGuideScreen extends AbstractScreen {
 	public void switchToThirdGuideScreen() {
 //		PropertyConfigurator.configure("log4j2.properties");
 		// 进入引导页第二屏
-		logger.info("滑动到低3屏引导页");
+		logger.info("滑动到第3屏引导页");
 		gs.switchToSecondGuideScreen();
 		driver.swipe(500, 300, 100, 300, 500);
 	

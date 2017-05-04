@@ -18,15 +18,27 @@ public class MyScreen extends AbstractScreen {
 
 	}
 
-	@FindBy(xpath = "//android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout")
+	@FindBy(id = "com.updrv.lifecalendar:id/account_info")
 	public WebElement notLogin;
 	
-	@FindBy(className="android.widget.TextView")
+//	@FindBy(className="android.widget.TextView") com.updrv.lifecalendar:id/tv_personal_account_user_name
+//	public List<WebElement> initUserName;
+	
+	@FindBy(id="com.updrv.lifecalendar:id/tv_personal_account_user_name") 
 	public List<WebElement> initUserName;
 
 	@AndroidFindBy(className = "android.widget.ImageView")
 	public List<WebElement> loginButton;
 
+	
+	@FindBy(id="com.updrv.lifecalendar:id/dialog_text")//温馨提示
+	public WebElement remindWindow;
+	
+	@FindBy(id="com.updrv.lifecalendar:id/dialog_text3")//稍后再说确人按钮
+	public WebElement remindLaterButton;
+	
+	
+	
 	// 判断是否登录，返回获取的用户名
 	public boolean isLogin() {
 		String userName;
@@ -67,7 +79,17 @@ public class MyScreen extends AbstractScreen {
 	// 进入登录页面
 	public void enterLoginPage() {
 		logger.info("进入登录页面");
-		loginButton.get(0).click();
+		notLogin.click();
 	}
+
+//	public boolean isRemindWindowDisplay() {
+//		boolean isW = false;
+//		if (findElementWithTimeout(remindWindow, 10).isDisplayed()) {
+//			isW = true;
+//		}
+//		return isW;
+//	}
+
+
 
 }

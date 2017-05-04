@@ -2,9 +2,7 @@ import static org.testng.Assert.assertEquals;
 import io.appium.java_client.android.Activity;
 import io.appium.java_client.android.StartsActivity;
 
-import org.junit.After;
 import org.junit.Before;
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class GuideScreenTest extends AbstractTest {
